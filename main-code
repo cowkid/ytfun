@@ -1,1 +1,9 @@
-You do not have access to this document.
+<doctype html>
+  <iframe src="https://duckduckgo.com" width="200%" height="4000" frameborder="5" scrolling="no">
+  </iframe>
+  <form>
+  or
+  <doctype html>
+  <form method="get" id="search" action="http://duckduckgo.com/">
+  <input placeholder="click here and press enter&hellip;" /> LOAD UNSAFE SCRIPS, OR DUCKDUCKGO WONT CONNECT! also change the view!
+</form>
